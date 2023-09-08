@@ -5,8 +5,8 @@ In this project a VR environment is developed to capture hand movement trajector
 ### Files
 This repo includes both the application and Unity3D project files.
 
-### Controls
-![Controls](VRcontrols.png)
-
 ### Demo
 ![Demo](shortDemoG.gif)
+
+### Controls
+![Controls](VRcontrols.png)
